@@ -1,4 +1,18 @@
 # MPIE
+
+## Current release: MPIE Mobile v1.1.2
+
+The authoritative mobile build is [MPIE-Mobile-v1.1.2-Full-OAuth-Account-Lifecycle-Ubuntu-Ready.zip](./MPIE-Mobile-v1.1.2-Full-OAuth-Account-Lifecycle-Ubuntu-Ready.zip).
+
+- SHA-256: `9aa40cd885390a61149ba5101e33c33d809dc8ffd961ec46b41d676bfc141a31`
+- Validation: [v1.1.2 release verification](./RELEASE_v1.1.2_VERIFICATION.md)
+- Status: full Playbook, OAuth/account lifecycle prebuild, Ubuntu-ready deployment
+- Security default: `MPIE_AUTH_ENABLED=false`
+
+> `mpie_expanded_v1.1.0.zip` is retained as a legacy archive only. Use v1.1.2 as the current MPIE Mobile source of truth.
+
+## Project overview
+
 The Market Pressure Intelligence Engine (MPIE) is a proprietary predictive modeling system developed by Sierra Warren Developments, LLC. It is designed to forecast sports market outcomes by quantifying "pressure" as a primary analytical feature rather than treating it as random variance.
 
 The Market Pressure Intelligence Engine (MPIE) is a proprietary predictive modeling system developed by Sierra Warren Developments, LLC. It is designed to forecast sports market outcomes by quantifying "pressure" as a primary analytical feature rather than treating it as random variance.  
